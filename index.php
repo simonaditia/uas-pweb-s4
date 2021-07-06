@@ -165,11 +165,11 @@ $foto = $_SESSION['foto'];
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="index.php?page=data_guru" class="nav-link <?php if ($_GET['page'] == "data_guru") echo "active"; ?>">
-                                <i class="nav-icon fas fa-chalkboard-teacher"></i>
-                                <p>
-                                    Data Guru
-                                </p>
+
+                            <i class="nav-icon fas fa-chalkboard-teacher"></i>
+                            <p>
+                                Data Guru
+                            </p>
                             </a>
                         </li>
                         <li class="nav-item">
